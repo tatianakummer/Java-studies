@@ -5,7 +5,7 @@ This program is used to solve a quadratic equation
 based on values for a, b, and c provided by the user
  */
 
-public class Lab2 {
+public class QuadraticFormula {
     public static void main(String[] args) {
 
         //User inputs values for a, b, and c
