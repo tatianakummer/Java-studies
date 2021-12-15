@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab1 {
+public class WindChillIndex {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("This program calculates the wind-chill index");
